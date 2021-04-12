@@ -19,7 +19,7 @@ AppBar appbar = AppBar(
         icon: Icon(Icons.language),
         focusColor: whiteColor,
         hint: Text(
-          "Ti",
+          "Til",
           style: TextStyle(color: whiteColor),
         ),
       ),
